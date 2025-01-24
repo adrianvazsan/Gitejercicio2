@@ -1,3 +1,6 @@
 Hello jaime
 Hello adrian 
-hello alex 
+hello alex
+Bye jaime
+Bye adrian 
+Bye alex 
